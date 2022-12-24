@@ -18,8 +18,9 @@
 		<span class="block w-8 h-0.5 bg-gray-100 animate-pulse" />
 		<span class="block w-8 h-0.5 bg-gray-100 animate-pulse" />
 	</div>
-	<div class="hidden md:grid">
+	<div class="hidden md:grid grid-flow-col-dense justify-start">
 		<NavButton href="/">Home</NavButton>
+		<NavButton href="/elontracker">Elon Jet</NavButton>
 	</div>
 </div>
 

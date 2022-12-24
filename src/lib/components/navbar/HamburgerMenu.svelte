@@ -13,6 +13,7 @@
 	>
 		<div class="grid grid-cols-1 gap-6 ml-10 mt-20">
 			<NavButton href="/">Home</NavButton>
+			<NavButton href="/elontracker">Elon Jet</NavButton>
 		</div>
 	</div>
 {/if}
